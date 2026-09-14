@@ -1,1 +1,13 @@
 
+{
+  "name": "ikyu-price-watch",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Daily evidence capture of restaurant.ikyu.com/102893 course prices, for GitHub Actions.",
+  "scripts": {
+    "scrape": "node scripts/scrape.js"
+  },
+  "dependencies": {
+    "playwright": "1.56.0"
+  }
+}
