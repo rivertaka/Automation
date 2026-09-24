@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-24",
+  "capturedAt": "2026-09-24T16:23:57+09:00",
+  "sourceUrl": "https://restaurant.ikyu.com/102893",
+  "pointCampaignBanners": [],
+  "courses": [
+    {
+      "course": "Menu Benvenuto",
+      "slug": "benvenuto",
+      "screenshot": null,
+      "plans": [],
+      "rawText": null,
+      "error": "Could not locate a container for course variants: Menu Benvenuto, Benvenuto"
+    },
+    {
+      "course": "Anniversario（アニバーサリオ）",
+      "slug": "anniversario",
+      "screenshot": null,
+      "plans": [],
+      "rawText": null,
+      "error": "Could not locate a container for course variants: Anniversario, アニバーサリオ, アニヴェルサリオ, アニバーサリー"
+    },
+    {
+      "course": "Menu NORIO",
+      "slug": "norio",
+      "screenshot": null,
+      "plans": [],
+      "rawText": null,
+      "error": "Could not locate a container for course variants: Menu NORIO, NORIO"
+    }
+  ],
+  "errors": [
+    "Could not locate a container for course variants: Menu Benvenuto, Benvenuto",
+    "Could not locate a container for course variants: Anniversario, アニバーサリオ, アニヴェルサリオ, アニバーサリー",
+    "Could not locate a container for course variants: Menu NORIO, NORIO"
+  ]
+}
